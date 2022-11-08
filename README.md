@@ -9,7 +9,7 @@ I have created folder structure, navigation bar, hero section, work section, ski
 This portfolio site is a work in progress, and I will add to it when I continue to gain experience!
 
 ## Site Preview
-![Screenshot] (Bootstrap-screenshot.png)
+![image](https://user-images.githubusercontent.com/115739680/200691071-3486a619-2951-4a65-9c3e-4386780737e8.png)
 
 ## Installation
 
